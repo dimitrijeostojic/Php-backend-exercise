@@ -1,4 +1,8 @@
-Kada klonirate projekat, napravite u htdocsu folder epos_zadatak i sve sa githuba prekopirajte tamo, molim Vas da napravite u phpmyadminu bazu koja se zove epos_zadatak i udjeteu SQL, nalepite sledeci kod i izvrsite
+Kada klonirate projekat, napravite u htdocsu folder epos_zadatak i sve sa githuba prekopirajte tamo,
+molim Vas da napravite u phpmyadminu bazu koja se zove epos_zadatak i udjete u SQL, nalepite sledeci kod i izvrsite,
+takodje na desktopu napravite tekstualni fajl i nazovete ga po svom izboru,
+prekopirate putanju do tog fajla i u kodu u index.php nadjete gde sam ja stavio moju putanju i umesto nje zalepite vasu,
+nakon popunjavanja forme ako ste sve uradili kako treba trebalo bi da je korisnik dodat i u tekstualni fajl i u bazu
 CREATE TABLE adminreg (
     admin_id INT AUTO_INCREMENT PRIMARY KEY,
     first_name VARCHAR(255) NOT NULL,
