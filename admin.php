@@ -10,7 +10,7 @@
 
 <body>
     <div class="successSignup">
-        <p>You are success sign-up</p>
+        <p>You've successfuly sign-up</p>
         <p class="check">(check you json file)</p>
     </div>
 </body>
