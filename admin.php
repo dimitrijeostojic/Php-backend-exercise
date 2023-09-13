@@ -11,7 +11,7 @@
 <body>
     <div class="successSignup">
         <p>You've successfuly sign-up</p>
-        <p class="check">(check you json file)</p>
+        <p class="check">(check your json file)</p>
     </div>
 </body>
 
